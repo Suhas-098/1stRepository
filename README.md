@@ -1,2 +1,3 @@
 # 1stRepository
-This My First Repository!
+This My First Repositor!
+Autor:Suhas Magadum
